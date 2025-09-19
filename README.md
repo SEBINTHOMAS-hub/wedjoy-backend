@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # wedjoy-backend
 =======
 # wedjoy-backend
@@ -70,3 +71,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 >>>>>>> 59e0c4d (Initial backend commit)
+=======
+# wedjoy-backend
+>>>>>>> 0f43601290b857732521e0aa8a1d8b0f0d354002
